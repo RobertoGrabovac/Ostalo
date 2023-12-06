@@ -4,5 +4,5 @@ upravo nalazi u zadanoj dvorani. Poslužitelj potvrđuje klijentu da je primio p
 tablicu.
 - kod drugog oblika komunikacije klijent pita poslužitelja gdje se nalazi student sa zadanim JMBAG-om. Poslužitelj odgovara slanjem broja dvorane.
 - kod trećeg oblika komunikacije klijent pita poslužitelja koliko ima studenata u zadanoj dvorani.
-Poslužitelj odgovara slanjem broja studenata.
+Poslužitelj odgovara slanjem broja studenata.<br />
 Serverski program obrađuje svakog klijenta u svojoj dretvi (pritom se pazi na sinkronizaciju pristupa dijeljenom resursu - dvoranama).
